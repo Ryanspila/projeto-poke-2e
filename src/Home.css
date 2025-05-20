@@ -1,0 +1,20 @@
+div {
+    display: grid;
+    flex-wrap: wrap;
+    flex-direction: column;
+    width: 400px;
+    height: 900px;
+    background-color: rgb(15, 230, 230);
+    overflow: auto;
+    justify-content: space-evenly;
+    align-items: center;
+
+
+
+}
+
+img {
+    width: 100px;
+    heigth: 80px;
+}
+ 

@@ -1,8 +1,8 @@
 import poke from './assets/pokeapi_256.png'
 import eevee from './assets/eevee.jpg'
-import './Home.css'
+import './PokeGrid.jsx'
 
-const Home = () => {
+const PokeGrid = () => {
 
     return (
         <div>
